@@ -11,6 +11,9 @@ from .cardiology_detect import (
 )
 from .chestxray14_binary_classification import ChestXray14BinaryClassification
 from .chestxray14_multilabel_classification import ChestXray14MultilabelClassification
+from .clinical_presence_mortality_mimic3 import (
+    ClinicalPresenceMortalityMIMIC3 as ClinicalPresenceMortalityMIMIC3,
+)
 from .covid19_cxr_classification import COVID19CXRClassification
 from .deid_ner import DeIDNERTask
 from .dka import DKAPredictionMIMIC4, T1DDKAPredictionMIMIC4
