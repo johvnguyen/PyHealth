@@ -168,6 +168,11 @@ from .length_of_stay_prediction import (
 )
 from .length_of_stay_stagenet_mimic4 import LengthOfStayStageNetMIMIC4
 from .medical_coding import MIMIC3ICD9Coding
+from .mimic3_icd9_category_classification import (
+    ICD9_CATEGORIES as ICD9_CATEGORIES,
+    MIMIC3ICD9CategoryClassification as MIMIC3ICD9CategoryClassification,
+    icd9_to_category as icd9_to_category,
+)
 from .medmod_decompensation_mimic4 import (
     MedModDecompensationMIMIC4 as MedModDecompensationMIMIC4,
 )

@@ -230,6 +230,7 @@ Available Tasks
     Delphi Trajectory (MIMIC-IV) <tasks/pyhealth.tasks.DelphiTrajectoryMIMIC4>
     Delphi Trajectory (UK Biobank) <tasks/pyhealth.tasks.DelphiTrajectoryUKB>
     MIMIC-III ICD-9 Coding <tasks/pyhealth.tasks.MIMIC3ICD9Coding>
+    MIMIC-III ICD-9 Category Classification <tasks/pyhealth.tasks.MIMIC3ICD9CategoryClassification>
     BMD-HS Disease Classification <tasks/pyhealth.tasks.bmd_hs_disease_classification>
     Cardiology Detection <tasks/pyhealth.tasks.cardiology_detect>
     CPSC 2018 HeartLang Classification <tasks/pyhealth.tasks.CPSC2018HeartLangClassification>
