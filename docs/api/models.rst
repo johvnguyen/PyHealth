@@ -292,6 +292,7 @@ API Reference
 
     models/pyhealth.models.BaseModel
     models/pyhealth.models.NeuralFineGray
+    models/pyhealth.models.DeepHit
     models/pyhealth.models.LogisticRegression
     models/pyhealth.models.GA2M
     models/pyhealth.models.MLP

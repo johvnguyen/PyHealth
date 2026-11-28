@@ -1,5 +1,6 @@
 from .adacare import AdaCare, AdaCareLayer, MultimodalAdaCare
 from .agent import Agent, AgentLayer
+from .deephit import DeepHit as DeepHit
 from .apn import (
     APN as APN,
     LearnableTimeEncoding as LearnableTimeEncoding,
